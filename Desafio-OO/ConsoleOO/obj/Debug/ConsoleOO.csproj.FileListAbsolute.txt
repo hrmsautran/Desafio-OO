@@ -1,0 +1,6 @@
+D:\Users\DESENVO\Documents\GitHub\Desafio-OO\Desafio-OO\ConsoleOO\bin\Debug\ConsoleOO.exe.config
+D:\Users\DESENVO\Documents\GitHub\Desafio-OO\Desafio-OO\ConsoleOO\bin\Debug\ConsoleOO.exe
+D:\Users\DESENVO\Documents\GitHub\Desafio-OO\Desafio-OO\ConsoleOO\bin\Debug\ConsoleOO.pdb
+D:\Users\DESENVO\Documents\GitHub\Desafio-OO\Desafio-OO\ConsoleOO\obj\Debug\ConsoleOO.csprojResolveAssemblyReference.cache
+D:\Users\DESENVO\Documents\GitHub\Desafio-OO\Desafio-OO\ConsoleOO\obj\Debug\ConsoleOO.exe
+D:\Users\DESENVO\Documents\GitHub\Desafio-OO\Desafio-OO\ConsoleOO\obj\Debug\ConsoleOO.pdb

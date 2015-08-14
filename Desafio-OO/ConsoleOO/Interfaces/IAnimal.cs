@@ -1,9 +1,9 @@
 ﻿namespace ConsoleOO.Interfaces
 {
-    public interface IAnimal
+    public abstract class IAnimal
     {
-        string Andar();
-        string EmitirSom();
-        string Atacar();
+        public abstract string Andar();
+        public abstract string EmitirSom();
+        public abstract string Atacar();
     }
 }

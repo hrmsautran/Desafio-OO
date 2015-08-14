@@ -5,19 +5,19 @@ namespace ConsoleOO.Classes
 {
     class Leao : IAnimal
     {
-        public string Andar()
+        public override string Andar()
         {
-            return "Anda com 4 patas!!";
+            return "O Leão anda com 4 Patas!";
         }
 
-        public string Atacar()
+        public override string Atacar()
         {
-            return "Ataque rápido com MORDIDA e GARRAS!!";
+            return "E ataca com garras e mordidas!";
         }
 
-        public string EmitirSom()
+        public override string EmitirSom()
         {
-            return "Rugeee e dá muito, mas muitoooo medo!! =[";
+            return "Ruge!!";
         }
     }
 }

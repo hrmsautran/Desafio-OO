@@ -4,19 +4,19 @@ namespace ConsoleOO.Classes
 {
     class Cavalo : IAnimal
     {
-        public string Andar()
+        public override string Andar()
         {
-            return "Anda com 4 patas!!";
+            return "O Cavalo anda com 4 Patas!";
         }
 
-        public string Atacar()
+        public override string Atacar()
         {
-            return "Ataca com coice, mas, e raro isso acontecer!!";
+            return "E ataca com coice!";
         }
 
-        public string EmitirSom()
+        public override string EmitirSom()
         {
-            return "Relincha!! \\ o /";
+            return "Relincha!!";
         }
     }
 }
